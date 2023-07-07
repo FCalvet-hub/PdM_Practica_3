@@ -17,9 +17,13 @@
   - [Autor](#autor)
 
 ## Plataforma de desarrollo
+![alt text](https://www.st.com/bin/ecommerce/api/image.PF260000.en.feature-description-include-personalized-no-cpn-large.jpg "Placa")
+
 Compilado y probado para la placa de desarrollo **NUCLEO-F401RE**
 
 *STM32F401RE Embedded Nucleo STM32F4 MCU 32-Bit ARM Cortex-M3 Evaluation Board*
+
+**NOTA:** Para esta practica, al poseer la placa un solo LED, se utilizaron las salidas **GPIO_PIN_7** y **GPIO_PIN_6** para el manejo de los 2 led restantes.
 
 ## Objetivo
 * Encapsular las funciones necesarias para usar retardos no bloqueantes en un archivo fuente API_delay.c con su correspondiente archivo de cabecera API_delay.h, y ubicar estos archivos en la carpeta API creada.
