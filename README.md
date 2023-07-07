@@ -17,7 +17,7 @@
   - [Autor](#autor)
 
 ## Plataforma de desarrollo
-![alt text](https://www.st.com/bin/ecommerce/api/image.PF260000.en.feature-description-include-personalized-no-cpn-large.jpg "Placa")
+![alt text](401RE.webp "Placa")
 
 Compilado y probado para la placa de desarrollo **NUCLEO-F401RE**
 
